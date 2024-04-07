@@ -1,0 +1,17 @@
+Ноутбук
+Поля:
+1. Марка (brand)
+1. ОЗУ (randomAccessMemory)
+2. Объем ЖД (hardDiskDrive)
+3. Операционная система (operatSystem)
+4. Цвет (colour)
+5. Цена (price)
+6. Наличие, остаткок на складе (stock)
+Методы:
+1. Получение ОЗУ (getRandomAccessMemory)
+2. Получение  объема ЖД (getHardDiskDrive)
+3. Получение операционной системы (getOperatSystem)
+4. Получение Цвета (getColour) 
+5. Получение Цены (getPrice)
+6. Изменение цены (changePrice)
+7. Изменение количества(changeStock)
